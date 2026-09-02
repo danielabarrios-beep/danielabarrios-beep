@@ -7,14 +7,22 @@ El trabajo de cliente que hago en Laburu Agency es privado, así que este perfil
 
 **Proyectos destacados**
 
+[![CutePets](https://danielabarrios-beep.github.io/assets/store-cutepets.png)](https://angy-daniela-barrios-desarrolladora.netlify.app/#top)
+**CutePets** — tienda VTEX construida de cero: de administrador vacío a producción (catálogo, checkout, envíos y pagos).
+
 [![Mundo Gábrica](https://danielabarrios-beep.github.io/assets/store-mundogabrica.png)](https://angy-daniela-barrios-desarrolladora.netlify.app/#top)
 **Mundo Gábrica** — aplicación web propia con usuarios reales, 104 partidos y ranking en vivo.
+
+[![Widgets Laburu](https://danielabarrios-beep.github.io/assets/proj-widgets.png)](https://angy-daniela-barrios-desarrolladora.netlify.app/#top)
+**Widgets Laburu** — plataforma interna de propuestas para la agencia.
 
 [![FastStore](https://danielabarrios-beep.github.io/assets/proj-faststore.png)](https://angy-daniela-barrios-desarrolladora.netlify.app/#top)
 **FastStore** — storefront headless sobre VTEX (Next.js, React, TypeScript).
 
 [![E-commerce Shopify/VTEX](https://danielabarrios-beep.github.io/assets/store-shokz.png)](https://angy-daniela-barrios-desarrolladora.netlify.app/#top)
 **E-commerce Shopify/VTEX** — frontend de tienda para cliente de Laburu Agency.
+
+Fuera del trabajo de cliente practico con ejercicios propios en React, TypeScript y Tailwind (landings, componentes, animación) — este mismo portafolio es uno de ellos.
 
 Portafolio completo con todos los proyectos: https://angy-daniela-barrios-desarrolladora.netlify.app/
 
